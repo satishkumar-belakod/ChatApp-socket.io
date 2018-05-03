@@ -4,7 +4,7 @@ A real time chat application built using Node.js, Express, Socket.io
 ## Features<a name="features"></a>
 + Uses Express as the application Framework.
 + Real-time communication between a client and a server using [Socket.io](https://github.com/socketio/socket.io).
-+ Unit test cases/assertions written using Expect v1.20.2(https://github.com/mjackson/expect)
++ Unit test cases/assertions written using [Mocha](https://www.npmjs.com/package/mocha) and Expect v1.20.2(https://github.com/mjackson/expect)
 
 ## Installation<a name="installation"></a>
 ### Running Locally
